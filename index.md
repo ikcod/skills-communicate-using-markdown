@@ -5,3 +5,6 @@
 ```python
 print("Learning Markdown")
 ```
+- [x] Start learning Github
+- [ ] Undertand CI/CD in github
+       
